@@ -60,6 +60,7 @@ img{
 body {
   background-image: url("BG.png");
   background-repeat: no-repeat;
+  background-position: center center;
   background-attachment: fixed;
   background-size: cover;
 }
