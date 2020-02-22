@@ -58,8 +58,8 @@ img{
   -ms-transform: translate(-50%, -50%);
 }
 body {
-  background-image: url("BG.png");
-  background-repeat: no-repeat;
+  background: url("BG.png") black;
+  background-repeat: no-repeat repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
