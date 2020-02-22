@@ -18,6 +18,9 @@
   margin-top: 3%;
   margin-bottom: 3%;
 }
+.mates max-width:500px {
+  float: none;
+}
 .left{
   position: absolute;
   width: 50%;
